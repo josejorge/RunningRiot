@@ -24,6 +24,6 @@ import androidx.core.view.WindowInsetsCompat;
 
                     webView.setWebViewClient(new WebViewClient());
 
-                    webView.loadUrl("https://git.apx.ltd/testbed/seed032026/index.html");
+                    webView.loadUrl("https://git.apx.ltd/net.godguild.runningriot/");
                 }
 }
